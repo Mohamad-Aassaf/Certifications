@@ -8,7 +8,7 @@ This repository contains my professional certifications in software development 
 
 ### Complete Java Course
 
-- 📄 Certificate: [View Certificate](java/Complete-Java-Course.pdf)
+- 📄 Certificate: https://www.udemy.com/certificate/UC-76239a86-ea2f-4c83-919b-413188b7aed0/
 - 🛠️ Skills acquired:
   - Object-Oriented Programming (OOP)
   - Java Core Fundamentals
